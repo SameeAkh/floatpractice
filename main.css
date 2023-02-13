@@ -1,0 +1,43 @@
+body{
+    max-width: 1000px;
+    text-align: center;
+
+}
+
+html{
+    background-color: aqua;
+}
+footer{
+    text-align: center;
+    
+
+}
+section  img{
+    float: right;
+}
+section img{
+    float: left;
+}
+
+section img{
+    float: right;
+
+}
+section img{
+    float: left;
+}
+
+section img{
+    float: right;
+}
+
+section img{
+    float: left;
+}
+
+
+
+
+img{
+    max-width: 250px;
+}
